@@ -36,12 +36,12 @@ Project Idea 6 (Outstanding): UK Train Rides
 - Deliverables: Final report and presentation.
 
 ## Roles & Responsibilities
-| Heba Ghareeb Sayed Mohamed (Team Leader) | Dashboard Design |
-| Nour Waleed Mahmoud Ismail | Data Cleaning & Presentation |
-| Omnia Mahfouz Abd El-Hakim Mahfouz | Data Modeling & DAX |
-| Habiba Hassan Ismail Hamade | Data Modeling & DAX |
-| Sara Shoaib Ali Shoaib | Dashboard Design |
-| Farah Amr Salah Attia | Dashboard Design |
+ Heba Ghareeb Sayed Mohamed (Team Leader) ( Dashboard Design )
+ Nour Waleed Mahmoud Ismail ( Data Cleaning & Presentation )
+ Omnia Mahfouz Abd El-Hakim Mahfouz ( Data Modeling & DAX )
+ Habiba Hassan Ismail Hamade ( Data Modeling & DAX )
+ Sara Shoaib Ali Shoaib ( Dashboard Design )
+ Farah Amr Salah Attia ( Dashboard Design )
 
 ## KPIs
 - Number of rides for the next month
