@@ -47,12 +47,18 @@ Project Idea 6 (Outstanding): UK Train Rides
 | **Farah Amr Salah Attia** | Dashboard Design |
 
 ## KPIs
-- Number of rides for the next month
-- Forecasted revenue during each day of the next month
-- Demand on different ticket classes
+
+| KPI |
+|-----|
+| **Number of rides for the next month** |
+| **Forecasted revenue during each day of the next month** |
+| **Demand on different ticket classes** |
 
 ## Instructor
-Eng. Amir Ahmed Shehata
+
+| Name | Role |
+|------|------|
+| **Eng. Amir Ahmed Shehata** | Instructor |
 
 ## Project Files
 https://drive.google.com/drive/folders/16AYIbV9qJBvQ_DqIuisIb53zq5J_R0Qn
